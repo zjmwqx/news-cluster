@@ -1,0 +1,16 @@
+1.delete crontab job
+2.modify default.ini  in etc dir
+3.run run.sh
+
+package needed:
+
+pymongo
+mysql-connector-python
+scipy
+sklearn
+pandas
+numpy
+
+
+
+

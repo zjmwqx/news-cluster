@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "../batch/batchClassify.py", line 2, in <module>
+    from utils import mongoUtils
+  File "/root/PycharmProjects/news-cluster-ath/batch/utils/mongoUtils.py", line 7, in <module>
+    import pymongo
+ImportError: No module named pymongo
+2014-08-12 14:05:30,249 - main - INFO - init title word idf ser
+2014-08-12 14:06:57,841 - main - INFO - init title word idf ser success
+2014-08-12 14:06:58,679 - main - INFO - 2014-08-11 14:06:58.679397 is being process..
+2014-08-12 14:07:00,242 - main - INFO - 333
+Traceback (most recent call last):
+  File "../batch/batchClassify.py", line 2, in <module>
+    from utils import mongoUtils
+  File "/root/PycharmProjects/news-cluster-ath/batch/utils/mongoUtils.py", line 7, in <module>
+    import pymongo
+ImportError: No module named pymongo
+Traceback (most recent call last):
+  File "../batch/batchClassify.py", line 2, in <module>
+    from utils import mongoUtils
+  File "/root/PycharmProjects/news-cluster-ath/batch/utils/mongoUtils.py", line 7, in <module>
+    import pymongo
+ImportError: No module named pymongo
+Traceback (most recent call last):
+  File "../batch/batchClassify.py", line 2, in <module>
+    from utils import mongoUtils
+  File "/root/PycharmProjects/news-cluster-ath/batch/utils/mongoUtils.py", line 7, in <module>
+    import pymongo
+ImportError: No module named pymongo
